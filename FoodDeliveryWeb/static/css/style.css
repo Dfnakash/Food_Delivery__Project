@@ -1,0 +1,18 @@
+body{
+    background-color: rgb(241, 235, 220);
+}
+.logo{
+    
+    mix-blend-mode: darken;
+    
+    
+}
+img{
+    border-radius: 50%;
+}
+ul{
+    display: flex;
+    list-style: none;
+   justify-content: space-between;
+    
+}
